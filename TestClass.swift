@@ -8,5 +8,5 @@
 
 
 class TestClass: NSObject {
-    //This is my first commit
+    var family = ["Theodore","Ester","Adam","Jason","April","Han","Grandpa"]
 }
